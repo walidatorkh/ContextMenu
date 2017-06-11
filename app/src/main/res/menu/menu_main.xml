@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuItemBunny"
+        android:title="Bunny"
+        />
+    <item
+        android:id="@+id/menuItemPuppy"
+        android:title="Puppy"
+        />
+    <item
+        android:id="@+id/menuItemKitten"
+        android:title="Kitten"
+        />
+    <item
+        android:id="@+id/menuItemDucking"
+        android:title="Ducking"
+        />
+
+</menu>
